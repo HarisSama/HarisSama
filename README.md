@@ -40,5 +40,5 @@ I'm a Computer Science undergraduate studying at Prince of Songkla University. I
 
 ---
 <div align="center">
-  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
+  <i>"It’s not a bug. It’s an undocumented feature!"</i>
 </div>
