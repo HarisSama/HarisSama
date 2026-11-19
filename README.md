@@ -4,20 +4,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&fontAlignY=38" />
 </div>
 
-### 👨‍💻 About Me
+### 👨💻 About Me
 
-I'm a Computer Science undergraduate studying at Prince of Songkla University. I have a deep passion for exploring how things work under the hood, from writing low-level code to testing network boundaries.
+I'm a Computer Science undergraduate studying at Prince of Songkla University. I have a deep passion for exploring how things work under the hood, from writing low-level code to learning the fundamentals of networking and cybersecurity.
 
-- 🎓 Currently studying **Computer Networks** and exploring **Red Team tactics**.
+- 🎓 Currently learning **Computer Networks** and **Cybersecurity** from the ground up (still a beginner, building my foundation!).
 - 🛠️ Building projects and tinkering with **C++**, **ESP32**, and **Single-Board Computers (SBCs)**.
 - ⚙️ Enthusiast in system automation, game server hosting, and performance optimization.
-- 🌱 Always eager to learn new security tools and hardware architectures.
+- 🌱 Always eager to learn more about networking, security basics, and hardware architectures.
 
 ---
 
 ### 🚀 Tech Stack & Tools
 
----
 ---
 
 ### 📊 GitHub Analytics
